@@ -1,3 +1,4 @@
+[← Back to Known Fixes](../README.md)
 # ModuleNotFoundError: No module named 'pkg_resources' — pandas 1.4.4 pip install (February 2026)
 
 ## Error
